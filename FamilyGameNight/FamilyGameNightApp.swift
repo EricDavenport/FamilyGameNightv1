@@ -18,7 +18,7 @@ struct FamilyGameNightApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EventListView()
         }
         .modelContainer(sharedModelContainer)
     }
