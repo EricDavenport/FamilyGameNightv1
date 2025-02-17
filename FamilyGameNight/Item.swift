@@ -1,10 +1,3 @@
-//
-//  Item.swift
-//  FamilyGameNight
-//
-//  Created by Eric Davenport on 2/17/25.
-//
-
 import Foundation
 import SwiftData
 

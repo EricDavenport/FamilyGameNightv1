@@ -1,10 +1,3 @@
-//
-//  FamilyGameNightUITests.swift
-//  FamilyGameNightUITests
-//
-//  Created by Eric Davenport on 2/17/25.
-//
-
 import XCTest
 
 final class FamilyGameNightUITests: XCTestCase {
