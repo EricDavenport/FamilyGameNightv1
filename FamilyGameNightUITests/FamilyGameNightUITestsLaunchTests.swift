@@ -24,3 +24,4 @@ final class FamilyGameNightUITestsLaunchTests: XCTestCase {
         add(attachment)
     }
 }
+ 

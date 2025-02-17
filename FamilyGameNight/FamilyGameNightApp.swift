@@ -1,7 +1,6 @@
 import SwiftUI
 import SwiftData
 
-
 @main
 struct FamilyGameNightApp: App {
     var sharedModelContainer: ModelContainer = {
